@@ -1,0 +1,24 @@
+{
+  "name": "l8_nodebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelwittaknife/L8_NodeBase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/angelwittaknife/L8_NodeBase/issues"
+  },
+  "homepage": "https://github.com/angelwittaknife/L8_NodeBase#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
+}
